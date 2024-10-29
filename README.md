@@ -49,7 +49,11 @@ The main goal of a hospital management system is to design a project that will i
 ##output
 
 ![image](https://github.com/user-attachments/assets/a46cbbbf-9606-416f-b57d-3f5b06a09b94)
+
+![image](https://github.com/user-attachments/assets/9db659fc-f913-4f9b-acf6-ef5e5651ed72)
+
 ![image](https://github.com/user-attachments/assets/323960a7-a737-41ff-a6a5-a48b8794589f)
+
 ![image](https://github.com/user-attachments/assets/fb2ff15a-0596-4d13-96a5-3a4a557c592e)
 
 
